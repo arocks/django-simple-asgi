@@ -1,0 +1,3 @@
+* Git
+* Ports for Django App in Compose
+* Env Variables as {PG_PASSWD} or .env
